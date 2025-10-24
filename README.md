@@ -28,4 +28,13 @@ This demonstration addresses the GDPR "Right to Explanation," which requires org
 
 ---
 
+## Mitigation & Best Practices
+
+- Remove or anonymize personal identifiers before training.
+- Implement fairness-aware learning algorithms.
+- Use SHAP, LIME, or interpretML to document and explain feature influence.
+- Maintain model cards or compliance documentation for audit readiness.
+
+---
+
 ## Youtube Link
